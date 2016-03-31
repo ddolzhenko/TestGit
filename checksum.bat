@@ -1,0 +1,2 @@
+@python checksum.py
+pause
